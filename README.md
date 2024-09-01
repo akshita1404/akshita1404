@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshita Gupta 
-- 👩🏼‍💻 I am currently pursuing bh Btech from banasthali vidhyapith in Information technology.
+- 👩🏼‍💻 I am persuing Btech in Information technology from Banasthali vidhyapith, india.
 - 🌱 I’m currently learning python, java, c++, html ,css.
 - 👀 I want to explore new things in the texh field and create an impact.
 
